@@ -1,6 +1,14 @@
 # OperaSim-PhysX
 Simulator on Unity + PhysX communicating with ROS
 
+> **shimz-robotics fork について**
+>
+> このリポジトリは [pwri-opera/OperaSim-PhysX](https://github.com/pwri-opera/OperaSim-PhysX) の shimz 社内 fork です。
+>
+> - **`main`**: upstream (pwri-opera) のミラー。社内変更は加えません。
+> - **`shimz-main`** (default branch): 社内向けカスタマイズを含むブランチ。`git clone` で取得されるのはこちらです。
+> - upstream の更新を取り込む際は `main` を fast-forward した上で `shimz-main` に rebase / merge してください。
+
 ## 詳細マニュアル
 [OperaSim-PhysXマニュアル](https://operasim-physx.readthedocs.io/ja/latest/)
 
