@@ -13785,6 +13785,10 @@ PrefabInstance:
       propertyPath: m_ParentAnchorPosition.z
       value: 4.7878013
       objectReference: {fileID: 0}
+    - target: {fileID: 5252274551102217914, guid: 2dd7b6640a1df7f038639fda1ffd090a, type: 3}
+      propertyPath: topicName
+      value: zx200/joint_states
+      objectReference: {fileID: 0}
     - target: {fileID: 6393324789823717497, guid: 2dd7b6640a1df7f038639fda1ffd090a, type: 3}
       propertyPath: m_IsActive
       value: 1
