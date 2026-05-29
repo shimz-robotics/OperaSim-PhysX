@@ -1385,7 +1385,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   setpointTopicName: zx200/boom/cmd
-  initTargetPos: -46
+  initTargetPos: -60
 --- !u!114 &492980436494137003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3952,7 +3952,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   setpointTopicName: zx200/bucket/cmd
-  initTargetPos: 46
+  initTargetPos: -30
 --- !u!114 &5204067966075200288
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10826,7 +10826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   setpointTopicName: zx200/arm/cmd
-  initTargetPos: 114
+  initTargetPos: 140
 --- !u!114 &5615670537190771783
 MonoBehaviour:
   m_ObjectHideFlags: 0
